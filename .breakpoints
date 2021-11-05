@@ -23,6 +23,14 @@
         "version": 0,
         "index": 75
       }
+    ],
+    "output/simple_message.py": [
+      {
+        "id": "68380be7-f612-48fb-85d0-3d113c4bad6b",
+        "line": 8,
+        "version": 28,
+        "index": 200
+      }
     ]
   }
 }
