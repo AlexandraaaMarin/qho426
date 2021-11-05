@@ -1,0 +1,28 @@
+{
+  "files": {
+    "basics/output/simple_message.py": [
+      {
+        "id": "b56d99a8-cc4e-4a4f-9a00-caf3ce37d482",
+        "line": 3,
+        "version": 1,
+        "index": 75
+      }
+    ],
+    "main.py": [
+      {
+        "id": "5acc79b9-39dd-476c-b8d8-434b49e19278",
+        "line": 3,
+        "version": 1,
+        "index": 75
+      }
+    ],
+    "output/simple_message (copy).py": [
+      {
+        "id": "dc3d7611-c85e-4fa0-820d-7862d793b10d",
+        "line": 3,
+        "version": 0,
+        "index": 75
+      }
+    ]
+  }
+}
