@@ -12,14 +12,14 @@
       {
         "id": "5acc79b9-39dd-476c-b8d8-434b49e19278",
         "line": 1,
-        "version": 56,
+        "version": 238,
         "index": 0
       },
       {
         "id": "293d0bb7-de32-4a81-a03a-8f1238d2b0ce",
-        "line": 4,
-        "version": 159,
-        "index": 93
+        "line": 1,
+        "version": 238,
+        "index": 0
       }
     ],
     "output/simple_message (copy).py": [
@@ -34,7 +34,7 @@
       {
         "id": "68380be7-f612-48fb-85d0-3d113c4bad6b",
         "line": 2,
-        "version": 38,
+        "version": 50,
         "index": 41
       }
     ]
