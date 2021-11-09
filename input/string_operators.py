@@ -1,6 +1,3 @@
-#print("\u2665")
-#print("\u25c6")
-
 my_list = []
 n = int(input("Enter the number of lives:"))
 c=int(input("Enter the energy level:"))
