@@ -10,3 +10,7 @@ elif (direction == "right"):
     print("\nI am painting in the rightward direction!")
 else:
     print("\nNot sure which direction in am painting in!")
+
+
+
+
