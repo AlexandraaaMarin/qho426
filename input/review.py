@@ -1,21 +1,9 @@
 
+print("What type of book is this?")
+book_type = input() 
 
-year = 2000
-year = int(input("Enter a year: "))
+if (book_type == "adventure"):
+    print("\nI like adventure books!")
 
-if (year % 4) == 0:
-   if (year % 100) == 0:
-       if (year % 400) == 0:
-           print("{0} is a leap year".format(year))
-       else:
-           print("{0} is not a leap year".format(year))
-   else:
-       print("{0} is a leap year".format(year))
-else:
-   print("{0} is not a leap year".format(year))
-
-
-
-
-
+print("\nFinished reading book.")
 
