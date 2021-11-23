@@ -1,8 +1,9 @@
-print("Where should I look?")
-place = input()
+def run():
+ print("Where should I look?")
+ place = input()
 
 
-if (place == "in the bedroom"):
+ if (place == "in the bedroom"):
     print("Where in the bedroom should I look?")
     bedroom_place = input()
 
@@ -12,7 +13,7 @@ if (place == "in the bedroom"):
         print("Found some mess but no battery.") 
 
 
-elif (place == "in the bathroom"):
+ elif (place == "in the bathroom"):
     print("Where in the bathroom should I look?")
     bathroom_place = input()
 
@@ -22,7 +23,7 @@ elif (place == "in the bathroom"):
         print("Found a wet surface but no battery.")
 
 
-elif (place == "in the lab"):
+ elif (place == "in the lab"):
     print("Where in the lab should I look?")
     lab_place = input()
 
@@ -32,6 +33,7 @@ elif (place == "in the lab"):
         print("Found some tools but no battery.")
 
 
-else:
+ else:
     print("I am not sure where that place is located.")
  
+run()

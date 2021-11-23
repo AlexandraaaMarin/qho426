@@ -11,9 +11,9 @@
     "basics/output/simple_message.py": [
       {
         "id": "b56d99a8-cc4e-4a4f-9a00-caf3ce37d482",
-        "line": 3,
-        "version": 1,
-        "index": 75
+        "line": 2,
+        "version": 19,
+        "index": 45
       }
     ],
     "output/simple_message (copy).py": [
