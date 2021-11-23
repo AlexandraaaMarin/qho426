@@ -9,7 +9,7 @@ import basics.input.data_types as data_types
 import basics.input.review as review
 import basics.input.string_operators as string_operators
 import basics.input.user_input as user_input
-
+import decisions.nested_decisions as nestception
 
 def run_block_a():
     print("Which program in 'Block A: Basics' do you wish to run?")
@@ -32,7 +32,8 @@ def run_block_a():
       string_operators.run()
     elif(response=="user_input"):
       user_input.run()
-   
+    elif (response=="nestception"):
+      nestception.run()
 
 def run():
     is_running = True
